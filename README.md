@@ -105,7 +105,8 @@ DCSAI-Project/
 
 <li>📸 Exemplos</li></b>
 
-![DCs AI Painel](https://github.com/user-attachments/assets/34b4f670-dd91-4a48-aba2-cca64e56fd61)
+![DCs AI Painel2](https://github.com/user-attachments/assets/d8294ec4-eea9-4977-a10a-5badfb04a5f3)
+
 
 
 <h1>📜 Licença</h1>
