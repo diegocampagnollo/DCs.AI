@@ -10,6 +10,7 @@
 - WebSocket 🔌
 - GitHub 💻
 
+x
 
 ![GitHub followers](https://img.shields.io/github/followers/diegocampagnollo-cell?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/diegocampagnollo-cell?style=social)
