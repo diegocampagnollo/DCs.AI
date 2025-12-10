@@ -107,6 +107,11 @@ DCSAI-Project/
 
 ![DCs AI Painel2](https://github.com/user-attachments/assets/d8294ec4-eea9-4977-a10a-5badfb04a5f3)
 
+## 📸 Exemplo do Painel em ação
+
+<img width="1599" height="895" alt="image" src="https://github.com/user-attachments/assets/31c11c3c-8e0d-428d-9b05-b59458321e09" />
+
+CPU, RAM, Disco 💧, Rede 🌬️ — tudo monitorado em tempo real via WebSocket.
 
 
 <h1>📜 Licença</h1>
