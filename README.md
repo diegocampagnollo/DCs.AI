@@ -14,6 +14,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/diegocampagnollo?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/diegocampagnollo?style=social)
 
+👉 Veja o [ROADMAP completo](ROADMAP.md) para os próximos recursos planejados.
 
 <h1>DCs.AI Project 🧠💻</h1>
 <li><b>Protótipo em andamento 🔧 — sistema de monitoramento em tempo real de métricas (CPU, RAM e outros recursos), com backend em Python (WebSocket) e frontend em React/Vite.</li></b>
