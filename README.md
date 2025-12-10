@@ -35,7 +35,7 @@ DCSAI-Project/
  
  ├── configs/       # Configurações futuras
  
- ├── archive/       # Pastas/arquivos em pausa (tests, contracts, examples, tools, TOKEN_INFO.md)
+ <s>├── archive/       # Pastas/arquivos em pausa (tests, contracts, examples, tools, TOKEN_INFO.md)</s>
  
  ├── README.md
  
