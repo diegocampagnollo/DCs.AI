@@ -1,3 +1,43 @@
+<h1>🚀 Ciclo de desenvolvimento do DCs.AI</h1>
+
+<h1>🎯 Protótipo</h1>
+
+<li>CPU e RAM em tempo real
+
+<li>Conexão WebSocket funcionando
+
+<li>Estrutura inicial do repositório (core/, ui/)
+
+<h1>🛠️ Alfa</h1>
+
+<li>Adição de Disco 💧 e Rede 🌬️
+
+<li>Alertas visuais básicos (CPU, RAM, Disco)
+
+<li>Primeiros testes internos com métricas reais
+
+<h1>🌍 Beta</h1>
+
+<li>README documentado com prints e exemplos
+
+<li>Painel público no GitHub
+
+<li>Testes externos
+
+<li>Captura de alertas reais (ex: risco térmico ⚠️)
+
+<h1>🏆 Gold Master</h1>
+
+<li>Painel consolidado e estável
+
+<li>Roadmap definido e documentado
+
+<li>Versão internacional (README em inglês)
+
+<li>Exportação de métricas e histórico em core/logs/ </li>
+
+----------------------------------------------------------
+
 <li>🔍 Reconhece erros em servidores, jogos ou sistemas antes que causem impacto.
 
 <li>🛠️ Sugere ou aplica correções automáticas, reduzindo falhas repetitivas.
