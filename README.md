@@ -113,6 +113,9 @@ DCSAI-Project/
 
 CPU, RAM, Disco 💧, Rede 🌬️ — tudo monitorado em tempo real via WebSocket.
 
+<img width="1603" height="891" alt="image" src="https://github.com/user-attachments/assets/155b62f2-bcd6-43a0-a7ae-f7fe49cf5d71" />
+
+⚠️ Alerta térmico detectado — DCs.AI Painel em ação com resposta inteligente.
 
 <h1>📜 Licença</h1>
 
