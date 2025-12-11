@@ -112,7 +112,7 @@ DCSAI-Project/
 
 <img width="1599" height="895" alt="image" src="https://github.com/user-attachments/assets/31c11c3c-8e0d-428d-9b05-b59458321e09" />
 
-CPU, RAM, Disco 💧, Rede 🌬️ — tudo monitorado em tempo real via WebSocket.
+📊 CPU, RAM, Disco 💧, Rede 🌬️ — tudo monitorado em tempo real via WebSocket.
 
 <img width="1603" height="891" alt="image" src="https://github.com/user-attachments/assets/155b62f2-bcd6-43a0-a7ae-f7fe49cf5d71" />
 
