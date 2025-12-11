@@ -1,6 +1,36 @@
 # 🚀 Roadmap do DCs.AI
 
 ## 🎯 Ciclo de desenvolvimento
+
+📌 Próxima fase de upgrade (Gold Master)
+
+🔧 Recursos prioritários
+
+📦 Exportação de métricas → salvar histórico em core/logs/ e permitir download em CSV.
+
+🌐 Internacionalização → README em inglês e painel com suporte multilíngue.
+
+🧠 Inteligência no painel → histórico de uso, médias, picos e alertas automáticos.
+
+📊 Gráficos múltiplos → CPU, RAM, Disco, Rede e Temperatura separados, com visual mais rico.
+
+🔔 Alertas visuais avançados → cores diferentes e ícones dinâmicos para cada tipo de risco.
+
+🛡️ Estabilidade e robustez
+
+👉 Melhorar tratamento de erros no WebSocket (ex: reconectar se cair).
+
+👉 Garantir que métricas falsas ou zeradas não travem o painel.
+
+👉⚠️ Testes simulando carga alta para validar alertas térmicos e de memória.
+
+# 🌍 Roadmap futuro
+
+Painéis extras com estatísticas acumuladas
+
+# 🚀 Roadmap do DCs.AI
+
+## 🎯 Ciclo de desenvolvimento
 - **Protótipo**
   - CPU e RAM em tempo real
   - Conexão WebSocket funcionando
@@ -47,7 +77,6 @@
 - 🧠 **Inteligência no painel**  
   Histórico de uso (últimos minutos). Médias, picos e alertas automáticos. Possível dashboard com estatísticas acumuladas.
 
----
 
 ## 💡 Funções que podem ser adaptadas
 - 🌬️ Uso de rede ou atividade de processos  
@@ -68,7 +97,6 @@
 - 🕒 Métricas por minuto  
   Exemplo: `CPU/RAM nas últimas 6 horas`
 
----
 
 ## 🧪 Como isso pode aparecer no DCs.AI Painel
 - Painéis como ícones e dados (estilo cards)  
