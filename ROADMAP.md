@@ -1,3 +1,23 @@
+## 🤖 Módulo de Inteligência — Nomes e Funções
+
+O DCs.AI possui um núcleo de inteligência dividido em quatro módulos principais, cada um responsável por uma camada específica de monitoramento, defesa e previsão.
+
+### 🧩 Nome → Função principal
+
+- **DCs.AI Sentinel**  
+  Monitoramento constante. Vigia o sistema em tempo real, detecta riscos, picos e comportamentos anormais.
+
+- **DCs.AI Guardian**  
+  Atua na defesa: aplica correções automáticas, reinicia processos problemáticos e protege o sistema contra falhas.
+
+- **DCs.AI Watchdog**  
+  Focado em estabilidade: identifica travamentos, processos zumbis, falhas silenciosas e anomalias de execução.
+
+- **DCs.AI Predictive Engine**  
+  Analisa histórico e padrões para prever falhas futuras, sugerir ações preventivas e antecipar riscos.
+
+---
+
 # 🚀 Roadmap do DCs.AI
 
 ## 🎯 Ciclo de desenvolvimento
