@@ -119,6 +119,11 @@ DCSAI-Project/
 
 ⚠️ Alerta térmico detectado — DCs.AI Painel em ação com resposta inteligente.
 
+## ATUALIZAÇÕES 🔧
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c965ae25-1eb4-4462-8397-9f50c5c233a9" />
+<img width="1598" height="872" alt="image" src="https://github.com/user-attachments/assets/ffe617e6-39d9-4f9f-836a-a440199dd6b5" />
+
+
 <h1>📜 Licença</h1>
 
 <b><li>MIT License — veja LICENSE.md</li></b>
