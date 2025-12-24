@@ -16,6 +16,7 @@
 
 👉 Veja o [ROADMAP completo](ROADMAP.md) para os próximos recursos planejados.
 
+👉 Veja o atual: https://github.com/diegocampagnollo/DCs.AI/blob/main-branch/ROADMAP2.md 
 <h1>DCs.AI Project 🧠💻</h1>
 <li><b>Protótipo em andamento 🔧 — sistema de monitoramento em tempo real de métricas (CPU, RAM e outros recursos), com backend em Python (WebSocket) e frontend em React/Vite.</li></b>
 
